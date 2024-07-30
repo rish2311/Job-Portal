@@ -47,7 +47,7 @@ export default function Home() {
         <meta name="keywords" content="job portal, job search, career opportunities, employment, job listings, job openings, job vacancies, job postings, hiring, recruitment" />
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://job-portal-teal.vercel.app/" />
-        <meta name="author" content="Abdullah Moiz" />
+        <meta name="author" content="Rishabh Mehrotra" />
         <meta property="og:title" content="Find Your Dream Job | Job Portal Name" />
         <meta name="twitter:title" content="Find Your Dream Job | Job Portal Name" />
         <meta name="language" content="en-US" />
